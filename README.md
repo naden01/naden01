@@ -1,15 +1,13 @@
 <h1 align="left">Welcome!</h1>
 
+![hi-otag](https://github.com/user-attachments/assets/fc79aaa5-67a6-4477-b74d-2112fab91e10)
+
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naden01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=naden01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false" height="165" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naden01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="165" alt="languages graph"  />
 </div>
-
-###
-
-<img align="left" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWV4bjNuaDlzMTh4bHU2c2hlaDJmMzV1ZHdhZnRrbHpmMjdpMmpzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2zUn8hAwJwG4abiS0p/giphy.gif"  />
 
 ###
 
@@ -37,7 +35,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/31zyrpbgen2kqaxcddgxvgomljje">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zyrpbgen2kqaxcddgxvgomljje&count=5&unique=false" alt="Spotify recently played"  />
   </a>
