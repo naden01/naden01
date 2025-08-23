@@ -38,7 +38,7 @@
 
 ###
 
-<h1 align="left">My Playlist</h1>
+<h1 align="left">what im listening recently</h1>
 <div align="center">
   <a href="https://open.spotify.com/user/31zyrpbgen2kqaxcddgxvgomljje">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zyrpbgen2kqaxcddgxvgomljje&count=5&unique=false" alt="Spotify recently played"  />
