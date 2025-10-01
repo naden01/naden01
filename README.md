@@ -1,8 +1,9 @@
-<h1 align="left">Welcome!</h1>
+<h1 align="left">Hello, I'm Nazephyrus</h1>
 
 ![hi-otag](https://github.com/user-attachments/assets/fc79aaa5-67a6-4477-b74d-2112fab91e10)
 
-###
+### Just ordinary person who likes doing web development and android development
+### Also I like cats :p
 
 <h1 align="left">Stats</h1>
 
