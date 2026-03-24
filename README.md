@@ -18,6 +18,8 @@
 </div>
 
 ###
+
+<h1 align="left">Currently learning</h1>
 <div align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="40" alt="android logo"  />
   <img width="12" />
