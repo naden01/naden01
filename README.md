@@ -49,6 +49,7 @@
   </a>
 </div>
 
+<h1 align="left"></h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naden01/naden01/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naden01/naden01/output/pacman-contribution-graph.svg">
