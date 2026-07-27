@@ -14,7 +14,9 @@ jobs:
             contents: write
         runs-on: ubuntu-latest
         timeout-minutes: 20
-
+        env: # <-- Global environment variables for this entire job
+            ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: "true"
+            
         steps:
             # Step 1: Initialize the workspace environment
             - name: Checkout repository
