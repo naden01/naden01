@@ -29,6 +29,31 @@
 
 ###
 
+
+<details>
+<summary><b>💻 Environment</b></summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/WINDOWS_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white">
+
+- **CPU:** Intel Core i3 3570
+- **GPU:** RX 550
+- **STORAGE:** SSD RX7 500GB
+- **RAM:** Hynix DDR3 8GB
+
+<br>
+
+<h2>Mobile Device</h2>
+<img src="https://img.shields.io/badge/HIOS_15-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/TECNO_POVA_5_PRO-0052CC?style=for-the-badge&logo=smartphone&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/LINEAGEOS_23.2-167C80?style=for-the-badge&logo=lineageos&logoColor=white"> <img src="https://img.shields.io/badge/REDMI_7-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white">
+
+<img src="https://img.shields.io/badge/MIUI_9-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white"> <img src="https://img.shields.io/badge/MI_6X-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white">
+
+</details>
+
+###
 <h1 align="left">Socials</h1>
 <div align="left">
   <a href="https://www.youtube.com/@nazephyrus" target="_blank">
@@ -51,7 +76,7 @@
 
 ###
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=nazephyrus&width=600&show_user=header&footer_style=wave)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=nazephyrus&width=850&show_user=header&footer_style=wave)
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
